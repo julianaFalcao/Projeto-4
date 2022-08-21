@@ -1,5 +1,5 @@
 # Projeto-4
-Descrição: Esse é mais um projeto desenvolvido utilizado na certificação de Análise de Dados da Laboratória com a IBM
+Descrição: Esse é mais um projeto desenvolvido  na certificação de Análise de Dados da Laboratória com a IBM
 onde seerão analisados os cancelamentos da indústria de turismo
 
 <h2>Neste projeto </h2>
